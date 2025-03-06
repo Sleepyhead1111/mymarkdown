@@ -158,22 +158,25 @@ An example of 'train' looks as follows.
 The data fields are the same among all splits.
 
 #### General Translation
-- `text`: a `string` feature.
+- `translation`: a `dict` feature.
 
 #### Doc-level Translation
-- `text`: a `string` feature.
+- `translation`: a `dict` feature.
 
 #### Domain Translation
-- `text`: a `string` feature.
+- `translation`: a `dict` feature.
 
 #### Terminology-constrained Translation
-- `text`: a `string` feature.
+- `translation`: a `dict` feature.
+- `hints`: a `list` feature.
 
 #### Automatic Post-edition
-- `text`: a `string` feature.
+- `translation`: a `dict` feature.
+- `mt_gen`: a `string` feature.
 
 #### In-context Learning
-- `text`: a `string` feature.
+- `translation`: a `dict` feature.
+- `shots`: a `list` feature.
 
 ### Data Splits
 
