@@ -187,8 +187,15 @@ An example of 'train' looks as follows.
 - `data_name`(`str`): data source.
 
 #### In-context Learning
-- `translation`: a `dict` feature.
-- `shots`: a `list` feature.
+- `src_lang` (`str`): source text language.
+- `tgt_lang` (`str`): target text language.
+- `translation`: a `dictionary` feature containing:
+  - `src_lang`: a `string` feature.
+  - `tgt_lang`: a `string` feature.
+- `task_type`: a `string` feature.
+- `data_name`(`str`): data source.
+- `meta_task` (`str`): 
+- `shots`: a `list` feature containing examples for `General Translation` task
 
 ### Data Splits
 
