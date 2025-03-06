@@ -105,7 +105,15 @@ An example of 'test' looks as follows.
 This example was too long and was cropped:
 
 {
-    
+  "src_lang": "en",
+  "tgt_lang": "zh",
+  "translation": {
+      "en": "Tim's younger brother, Tod Leiweke, is currently the chief operating officer of the National Football League since 2015.",
+      "zh": "蒂姆的弟弟托德·莱维克自 2015 年以来担任国家美式橄榄球联盟的首席运营官。"
+  },
+  "data_name": "PAWS-X",
+  "hints": [{"en": "National Football League", "zh": "国家橄榄球联盟"}],
+  "task_type": "term_con_trans"
 }
 ```
 
