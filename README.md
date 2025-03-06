@@ -74,10 +74,15 @@ This example was too long and was cropped:
 
 An example of 'test' belongs to domain_medical looks as follows.
 ```
-This example was too long and was cropped:
-
 {
-    
+  "src_lang": "en",
+  "tgt_lang": "zh",
+  "translation":{
+      "en": "The median age of the 30 patients was 56.5 (28-80) years old, among them, 25 patients were primary plasma cell leukemia, and 5 patients were secondary plasma cell leukemia.",
+      "zh": "30例PCL患者中位年龄56.5（28-80）岁，25例为原发性浆细胞白血病，5例为继发性浆细胞白血病。"
+  },
+  "data_name": "wmt21_biomedical",
+  "task_type": "domain_medical"
 }
 ```
 
