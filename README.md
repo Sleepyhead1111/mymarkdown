@@ -52,10 +52,15 @@
 
 An example of 'test' looks as follows.
 ```
-This example was too long and was cropped:
-
 {
-    
+  "src_lang": "en",
+  "tgt_lang": "zh",
+  "translation": {
+      "en": "I know that advertising is how they make their money, but all that garbage seems counterproductive if it drives people away.",
+      "zh": "我知道广告是为他们创收的一种方式，而如果大量的广告让观众反感离开，似乎会适得其反。"
+  },
+  "data_name": "wmt23_news",
+  "task_type": "general_trans"
 }
 ```
 
