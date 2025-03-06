@@ -124,7 +124,15 @@ An example of 'test' looks as follows.
 This example was too long and was cropped:
 
 {
-    
+  "src_lang": "en",
+  "tgt_lang": "zh",
+  "translation": {
+      "en": "unfazed, Matteo hires an assassin to bomb the resort to create chaos and mayhem.",
+      "zh": "马特奥不慌不忙地雇用了一名刺客来轰炸度假村 ， 从而引起混乱。"
+  },
+  "mt_gen": "马特奥不慌不忙地雇用了一名刺客来轰炸制造混乱和混乱的手段.",
+  "data_name": "wmt21_APE",
+  "task_type": "ape"
 }
 ```
 
