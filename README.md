@@ -102,8 +102,6 @@ An example of 'test' belongs to domain_medical looks as follows.
 
 An example of 'test' looks as follows.
 ```
-This example was too long and was cropped:
-
 {
   "src_lang": "en",
   "tgt_lang": "zh",
@@ -121,8 +119,6 @@ This example was too long and was cropped:
 
 An example of 'test' looks as follows.
 ```
-This example was too long and was cropped:
-
 {
   "src_lang": "en",
   "tgt_lang": "zh",
@@ -140,10 +136,18 @@ This example was too long and was cropped:
 
 An example of 'train' looks as follows.
 ```
-This example was too long and was cropped:
-
 {
-    
+  "src_lang": "zh",
+  "tgt_lang": "en",
+  "translation": {"zh": "如何永久关闭Facebook帐户", "en": "How to close Facebook account permanently"},
+  "data_name": "TowerBlocks",
+  "task_type": "context_learning_trans",
+  "meta_task": "general_trans",
+  "shots": [
+  {"src_lang": "en", "tgt_lang": "zh", "translation": {"en": "Since then, more knowledge was accumulated through extensive studies on HCoV-229E and HCoV-OC43, both of which cause self-limiting symptoms.", "zh": "此后，通过对两种均可引起自限性症状的 HCoV-229E 和 HCoV-OC43 病毒的广泛研究，人类积累了更多相关知识。"}, "data_name": "tico19", "task_type": "general_trans"},
+  {"src_lang": "en", "tgt_lang": "zh", "translation": {"zh": "柴油汽车是一项很好的发明。", "en": "The diesel car was a wonderful invention."}, "data_name": "UM-corpus_education", "task_type": "general_trans"},
+  {"src_lang": "en", "tgt_lang": "zh", "translation": {"en": "While much about COVID-19 is still unknown, preliminary data suggests that it is more virulent and contagious than the seasonal flu, and less virulent but more contagious than SARS and MERS.", "zh": "尽管关于 COVID-19 我们还有很多未知的地方，但初步数据表明，该病毒比季节性流感的毒性和传染性更强，毒性弱于 SARS 和 MERS 但传染性更强。"}, "data_name": "tico19", "task_type": "general_trans"}
+  ]
 }
 ```
 
