@@ -162,12 +162,12 @@ The data fields are the same among all splits.
 
 ### Data Splits
 
-|       name        | train |validation|test|
-|-------------------|------:|---------:|---:|
-|wikitext-103-raw-v1|1801350|      3760|4358|
-|wikitext-103-v1    |1801350|      3760|4358|
-|wikitext-2-raw-v1  |  36718|      3760|4358|
-|wikitext-2-v1      |  36718|      3760|4358|
+| name | train |validation|test|
+|------|------:|---------:|---:|
+|De-en |       |          |    |
+|Ru-en |       |          |    |
+|Zh-en |       |          |    |
+|Cs-en |       |          |    |
 
 ## Dataset Creation
 
