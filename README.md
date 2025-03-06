@@ -65,10 +65,6 @@ This example was too long and was cropped:
 
 ##### Doc-level Translation
 
-- **Size of downloaded dataset files:** 
-- **Size of the generated dataset:** 
-- **Total amount of disk used:** 
-
 An example of 'train' looks as follows.
 ```
 This example was too long and was cropped:
@@ -79,10 +75,6 @@ This example was too long and was cropped:
 ```
 
 ##### Domain Translation
-
-- **Size of downloaded dataset files:** 
-- **Size of the generated dataset:** 
-- **Total amount of disk used:** 
 
 An example of 'train' looks as follows.
 ```
@@ -95,10 +87,6 @@ This example was too long and was cropped:
 
 ##### Terminology-constrained Translation
 
-- **Size of downloaded dataset files:** 
-- **Size of the generated dataset:** 
-- **Total amount of disk used:** 
-
 An example of 'train' looks as follows.
 ```
 This example was too long and was cropped:
@@ -110,10 +98,6 @@ This example was too long and was cropped:
 
 ##### Automatic Post-edition
 
-- **Size of downloaded dataset files:** 
-- **Size of the generated dataset:** 
-- **Total amount of disk used:** 
-
 An example of 'train' looks as follows.
 ```
 This example was too long and was cropped:
@@ -124,10 +108,6 @@ This example was too long and was cropped:
 ```
 
 ##### In-context Learning
-
-- **Size of downloaded dataset files:** 
-- **Size of the generated dataset:** 
-- **Total amount of disk used:** 
 
 An example of 'train' looks as follows.
 ```
