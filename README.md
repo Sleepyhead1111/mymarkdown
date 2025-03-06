@@ -50,7 +50,7 @@
 
 ##### General Translation
 
-An example of 'train' looks as follows.
+An example of 'test' looks as follows.
 ```
 This example was too long and was cropped:
 
@@ -61,7 +61,7 @@ This example was too long and was cropped:
 
 ##### Doc-level Translation
 
-An example of 'train' looks as follows.
+An example of 'test' looks as follows.
 ```
 This example was too long and was cropped:
 
@@ -72,7 +72,7 @@ This example was too long and was cropped:
 
 ##### Domain Translation
 
-An example of 'train' looks as follows.
+An example of 'test' belongs to domain_medical looks as follows.
 ```
 This example was too long and was cropped:
 
@@ -83,7 +83,7 @@ This example was too long and was cropped:
 
 ##### Terminology-constrained Translation
 
-An example of 'train' looks as follows.
+An example of 'test' looks as follows.
 ```
 This example was too long and was cropped:
 
@@ -94,7 +94,7 @@ This example was too long and was cropped:
 
 ##### Automatic Post-edition
 
-An example of 'train' looks as follows.
+An example of 'test' looks as follows.
 ```
 This example was too long and was cropped:
 
