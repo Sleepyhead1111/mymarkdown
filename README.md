@@ -50,10 +50,6 @@
 
 ##### General Translation
 
-- **Size of downloaded dataset files:** 
-- **Size of the generated dataset:** 
-- **Total amount of disk used:**
-
 An example of 'train' looks as follows.
 ```
 This example was too long and was cropped:
