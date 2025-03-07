@@ -39,7 +39,7 @@ In order to examine to what extent the model can generalize, we develop a new be
 
 ### Languages
 
-[More Information Needed](https://github.com/)
+ComMT supports four languages: German, Czech, Russian, and Chinese.
 
 ## Data Structure
 
@@ -212,6 +212,11 @@ The dataset is licensed under the MIT License.
 ### Citation Information
 
 ```
-
+@article{article_id,
+  author    = {Author List},
+  title     = {Dataset Paper Title},
+  journal   = {Publication Venue},
+  year      = {2025}
+}
 ```
 
