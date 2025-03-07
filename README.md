@@ -29,7 +29,7 @@
 - **Homepage:** 
 - **Repository:** https://github.com/NiuTrans/LaMaTE/
 - **Paper:** https://arxiv.org/
-- **Point of Contact:** [More Information Needed](https://github.com/huggingface/datasets/blob/master/CONTRIBUTING.md#how-to-contribute-to-the-dataset-cards)
+- **Point of Contact:** 
 - **Size of downloaded dataset files:** 
 - **Size of the generated dataset:** 
 - **Total amount of disk used:** 
