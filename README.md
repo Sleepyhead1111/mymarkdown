@@ -157,10 +157,10 @@ Some tasks have other keys as described below:
 
 | name | train |validation| test|
 |------|:-----:|---------:|:---:|
-|De-en | 76912 |          |17968|
-|Ru-en | 60690 |          |15923|
-|Zh-en | 75619 |          |18122|
-|Cs-en | 26440 |          |12965|
+|De-en | 76912 |   2000   |17968|
+|Ru-en | 60690 |   2000   |15923|
+|Zh-en | 75619 |   2000   |18122|
+|Cs-en | 26440 |   2000   |12965|
 
 
 
