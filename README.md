@@ -16,8 +16,7 @@ While there have been datasets developed for fine-tuning LLMs for multiple trans
 
 ComMT includes 6 tasks in total, and supports four languages: German, Czech, Russian, and Chinese.
 
-![ComMT](https://github.com/Sleepyhead1111/mymarkdown/blob/main/commt.png){:height="300px" width="300px"}
-
+![ComMT](https://github.com/Sleepyhead1111/mymarkdown/blob/main/commt.png)
 
 ## Data Structure
 
