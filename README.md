@@ -151,12 +151,12 @@ Some tasks have other keys as described below:
 
 ### Data Splits
 
-| name | train |validation|test|
-|------|------:|---------:|---:|
-|De-en |       |          |    |
-|Ru-en |       |          |    |
-|Zh-en |       |          |    |
-|Cs-en |       |          |    |
+| name | train |validation| test|
+|------|:-----:|---------:|:---:|
+|De-en | 76912 |          |17968|
+|Ru-en | 60690 |          |15923|
+|Zh-en | 75619 |          |18122|
+|Cs-en | 26440 |          |12965|
 
 
 
