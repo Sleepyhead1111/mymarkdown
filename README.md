@@ -42,8 +42,6 @@ An example of 'test' looks as follows.
 
 An example of 'test' looks as follows.
 ```
-This example was too long and was cropped:
-
 {
   "src_lang": "en",
   "tgt_lang": "zh",
