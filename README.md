@@ -1,18 +1,5 @@
 # Dataset Card for "ComMT"
 
-## Table of Contents
-- [Dataset Description](#dataset-description)
-  - [Dataset Summary](#dataset-summary)
-  - [Supported Tasks and Leaderboards](#supported-tasks-and-leaderboards)
-  - [Languages](#languages)
-- [Dataset Structure](#dataset-structure)
-  - [Data Instances](#data-instances)
-  - [Data Fields](#data-fields)
-  - [Data Splits](#data-splits)
-- [Additional Information](#additional-information)
-  - [Licensing Information](#licensing-information)
-  - [Citation Information](#citation-information)
-
 ## Dataset Description
 
 - **Homepage:** 
