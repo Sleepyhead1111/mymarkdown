@@ -10,7 +10,11 @@
 
 ComMT(Comprehensive Machine Translation benchmark) is a diverse translation-related dataset, aiming to assess how well the machine translation system generalizes across various tasks that evaluate different aspects of a translation model.
 
-While there have been datasets developed for fine-tuning LLMs for multiple translation tasks, our focus is on a broader range of application scenarios. We hope that such a benchmark can be adopted to provide a systematic  evaluation of machine translation systems, and that this, in turn, will encourage practitioners to pay more attention to the issue of generalization when developing these systems.
+While there have been datasets developed for fine-tuning LLMs for multiple translation tasks, ComMT focus on a broader range of application scenarios. Hope that such a benchmark can be adopted to provide a systematic evaluation of machine translation systems, and that this, in turn, will encourage practitioners to pay more attention to the issue of generalization when developing these systems.
+
+Datas are collected mainly from public resources, driven by two goals: 
+1. Find as many data sources as possible in order to increase data diversity, focusing primarily on well-established repositories  such as OPUS, WMT, and Papers with Code. These sources have been widely used in MT research.
+2. Collect as much high-quality, manually annotated translation data as possible. To uphold data quality, only those datas that had undergone manual annotation are retained. To further refine this dataset and remove potentially low-quality samples, the COMETkiwi model is employed for filtering.
 
 ### Supported Tasks and Languages
 
