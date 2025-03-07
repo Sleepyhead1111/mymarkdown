@@ -29,15 +29,13 @@ ComMT(Comprehensive Machine Translation benchmark) is a diverse translation-rela
 
 In order to examine to what extent the model can generalize, we develop a new benchmark, called  the Comprehensive Machine Translation benchmark (ComMT). It consists of several diverse tasks  that evaluate different aspects of a translation model. While there have been datasets developed for  fine-tuning LLMs for multiple translation tasks (Alves et al., 2024), our focus is on a broader range  of application scenarios. We hope that such a benchmark can be adopted to provide a systematic  evaluation of machine translation systems, and that this, in turn, will encourage practitioners to pay  more attention to the issue of generalization when developing these systems.
 
+### Supported Tasks and Leaderboards
+
 - General Translation. This is a standard sentence in, sentence out task in general domains,  serving as the foundation for more specialized tasks.
 - Document-level Translation. This task extends translation from sentence-level to documentlevel, focusing on maintaining coherence and context in extended texts, rather than merely  achieving sentence-level accuracy. Our document-level translation tasks mainly involve  general long texts, such as news articles.
 - Domain Translation. This task focuses on domain-specific translation, ensuring the accurate  use of domain-specific terminology and expressions. Based on the application scenario and  existing research, we identified five initial domains for study: Medical, Law, Information  Technology(IT), Colloquial, and Literature.
 - Terminology-constrained Translation. In this task, the system is required to produce translations that follow the given terminology translation requirements.
 - Automatic Post-editing. This task focuses on enhancing the quality of preliminary machine  translation outputs by automatically correcting errors in grammar, spelling, and style in the  initial translations.
-
-### Supported Tasks and Leaderboards
-
-[More Information Needed](https://github.com/)
 
 ### Languages
 
