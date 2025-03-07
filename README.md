@@ -127,7 +127,6 @@ An example of 'train' looks as follows.
 
 All tasks have 5 keys as described below:
 
-#### General Translation  &&  Doc-level Translation  &&  Domain Translation
 - `src_lang` (`str`): source text language.
 - `tgt_lang` (`str`): target text language.
 - `translation`: a `dictionary` feature containing:
