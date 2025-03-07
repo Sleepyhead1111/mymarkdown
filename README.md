@@ -18,10 +18,6 @@
 - **Homepage:** 
 - **Repository:** https://github.com/NiuTrans/LaMaTE/
 - **Paper:** https://arxiv.org/
-- **Point of Contact:** 
-- **Size of downloaded dataset files:** 
-- **Size of the generated dataset:** 
-- **Total amount of disk used:** 
 
 ### Dataset Summary
 
@@ -31,11 +27,11 @@ In order to examine to what extent the model can generalize, we develop a new be
 
 ### Supported Tasks and Leaderboards
 
-- General Translation. This is a standard sentence in, sentence out task in general domains,  serving as the foundation for more specialized tasks.
-- Document-level Translation. This task extends translation from sentence-level to documentlevel, focusing on maintaining coherence and context in extended texts, rather than merely  achieving sentence-level accuracy. Our document-level translation tasks mainly involve  general long texts, such as news articles.
-- Domain Translation. This task focuses on domain-specific translation, ensuring the accurate  use of domain-specific terminology and expressions. Based on the application scenario and  existing research, we identified five initial domains for study: Medical, Law, Information  Technology(IT), Colloquial, and Literature.
-- Terminology-constrained Translation. In this task, the system is required to produce translations that follow the given terminology translation requirements.
-- Automatic Post-editing. This task focuses on enhancing the quality of preliminary machine  translation outputs by automatically correcting errors in grammar, spelling, and style in the  initial translations.
+- `General Translation`: This is a standard sentence in, sentence out task in general domains,  serving as the foundation for more specialized tasks.
+- `Document-level Translation`: This task extends translation from sentence-level to documentlevel, focusing on maintaining coherence and context in extended texts, rather than merely  achieving sentence-level accuracy. Our document-level translation tasks mainly involve  general long texts, such as news articles.
+- `Domain Translation`: This task focuses on domain-specific translation, ensuring the accurate  use of domain-specific terminology and expressions. Based on the application scenario and  existing research, we identified five initial domains for study: Medical, Law, Information  Technology(IT), Colloquial, and Literature.
+- `Terminology-constrained Translation`: In this task, the system is required to produce translations that follow the given terminology translation requirements.
+- `Automatic Post-editing`: This task focuses on enhancing the quality of preliminary machine  translation outputs by automatically correcting errors in grammar, spelling, and style in the  initial translations.
 
 ### Languages
 
